@@ -1,6 +1,6 @@
 {
   "name": "resolve-and-call",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Resolve a module and call the function it exports",
   "main": "index.js",
   "directories": {
