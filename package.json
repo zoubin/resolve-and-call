@@ -1,0 +1,35 @@
+{
+  "name": "resolve-and-call",
+  "version": "0.0.1",
+  "description": "Resolve a module and call the function it exports",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "arrayify-slice": "^1.0.0",
+    "caller": "^1.0.0",
+    "eslint": "^1.5.1",
+    "resolve": "^1.1.6"
+  },
+  "devDependencies": {
+    "tap": "^1.4.1"
+  },
+  "scripts": {
+    "test": "eslint . && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/resolve-and-call.git"
+  },
+  "keywords": [
+    "resolve",
+    "plugin"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/resolve-and-call/issues"
+  },
+  "homepage": "https://github.com/zoubin/resolve-and-call#readme"
+}
