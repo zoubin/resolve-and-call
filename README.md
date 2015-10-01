@@ -1,4 +1,4 @@
-# resolve-and-call
+# resolve-and-call [![Travis Build Status][travis-img]][travis]
 Resolve a module and call the function it exports.
 
 ## example
