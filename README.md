@@ -1,4 +1,4 @@
-# resolve-and-call [![Travis Build Status][travis-img]][travis]
+# resolve-and-call [![Build Status](https://travis-ci.org/zoubin/resolve-and-call.svg?branch=master)](https://travis-ci.org/zoubin/resolve-and-call)
 Resolve a module and call the function it exports.
 
 ## example
